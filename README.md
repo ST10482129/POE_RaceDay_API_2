@@ -91,7 +91,7 @@ Replace the placeholder repository URL with your actual GitHub repository URL.
 
 From the directory containing the API project file, run:
 
-```bash
+``bash
 dotnet restore
 ```
 
