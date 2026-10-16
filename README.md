@@ -97,7 +97,7 @@ dotnet restore
 
 This restores the NuGet packages required by the project.
 
-## Step 3: Build the API
+# Step 3: Build the API
 
 Run:
 
