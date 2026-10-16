@@ -19,7 +19,7 @@ An ASP.NET Core Web API developed in C# to support the management of race day ac
 13. [Security Considerations](#13-security-considerations)
 14. [Conclusion](#14-conclusion)
 
-# 1. Project Overview
+ 1. Project Overview
 
 **POE_RaceDay_API** is a RESTful Web API built using ASP.NET Core and C#. It provides backend functionality for managing race day information and related operations.
 
