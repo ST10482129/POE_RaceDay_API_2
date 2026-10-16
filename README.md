@@ -71,7 +71,7 @@ Before running the project, ensure that you have installed:
 
 # 5. Installation and Setup
 
-### Step 1: Clone the repository
+## Step 1: Clone the repository
 
 Open a terminal and run:
 
