@@ -2,7 +2,7 @@
 
 An ASP.NET Core Web API developed in C# to support the management of race day activities, including events, categories, participant enrolments, and race results.
 
-# Table of Contents
+ Table of Contents
 
 1. [Project Overview](#1-project-overview)
 2. [Technologies Used](#2-technologies-used)
