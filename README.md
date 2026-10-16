@@ -42,7 +42,7 @@ The project also includes unit testing and a GitHub Actions workflow to help aut
 
 The exact SDK version and package versions should match those specified in the project files.
 
-## 3. Features
+ 3. Features
 
 The API is designed to support the following functionality:
 
@@ -58,7 +58,7 @@ The API is designed to support the following functionality:
 
 The available functionality depends on the implementation of the controllers and the database schema.
 
-## 4. Prerequisites
+ 4. Prerequisites
 
 Before running the project, ensure that you have installed:
 
