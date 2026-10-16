@@ -69,9 +69,9 @@ Before running the project, ensure that you have installed:
 - Git.
 - A GitHub account if you intend to use GitHub repository hosting and Actions.
 
-# 5. Installation and Setup
+ 5. Installation and Setup
 
-# Step 1: Clone the repository
+ Step 1: Clone the repository
 
 Open a terminal and run:
 
