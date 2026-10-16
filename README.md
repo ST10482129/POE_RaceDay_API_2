@@ -1,4 +1,4 @@
-# POE_RaceDay_API
+ POE_RaceDay_API
 
 An ASP.NET Core Web API developed in C# to support the management of race day activities, including events, categories, participant enrolments, and race results.
 
