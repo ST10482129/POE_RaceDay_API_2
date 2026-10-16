@@ -149,7 +149,7 @@ The database must contain the tables and relationships expected by the API, incl
 
 Use the database SQL scripts supplied with the project, if available, to create the required schema.
 
-## 7. Authentication and Authorisation
+# 7. Authentication and Authorisation
 
 The API uses JSON Web Tokens (JWT) to authenticate requests to protected endpoints.
 
