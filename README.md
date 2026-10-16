@@ -87,7 +87,7 @@ cd POE_RaceDay_API
 
 Replace the placeholder repository URL with your actual GitHub repository URL.
 
-### Step 2: Restore dependencies
+## Step 2: Restore dependencies
 
 From the directory containing the API project file, run:
 
