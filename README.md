@@ -27,7 +27,7 @@ The API uses controller-based request handling, SQL Server for data storage, req
 
 The project also includes unit testing and a GitHub Actions workflow to help automate build validation and test execution.
 
-# 2. Technologies Used
+ 2. Technologies Used
 
 - **Programming language:** C#
 - **Framework:** ASP.NET Core Web API
